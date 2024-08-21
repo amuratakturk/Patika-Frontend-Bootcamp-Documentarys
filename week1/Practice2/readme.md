@@ -40,7 +40,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları t
 ### Depoyu Klonlayın:
 
 
-git clone https://github.com/kullaniciadi/projeadi.git
+git clone https://github.com/amuratakturk/Patika-Frontend-Bootcamp-Documentarys.git
 
 
 Dosyaları Açın: HTML dosyasını tarayıcınızda açın.
