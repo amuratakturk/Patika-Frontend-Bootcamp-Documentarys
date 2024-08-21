@@ -1,1 +1,1 @@
-# Patika-Frontend-Bootcamp-Documentarys
+# Patika-Frontend-Bootcamp-Projects
