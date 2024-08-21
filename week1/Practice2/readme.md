@@ -37,18 +37,6 @@ Gönder Butonu: Form verilerini sunucuya göndermek için bir buton.
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
-### Depoyu Klonlayın:
-
-
-git clone https://github.com/amuratakturk/Patika-Frontend-Bootcamp-Documentarys.git
-
-
-Dosyaları Açın: HTML dosyasını tarayıcınızda açın.
-
-Formu Kullanın: Formu doldurun ve "Gönder" butonuna basın.
-
-Opsiyonel olarak form doğrulamasını ve diğer fonksiyonları geliştirmek için CSS ve JavaScript ekleyebilirsiniz.
-
 
 ## Lisans :
 
