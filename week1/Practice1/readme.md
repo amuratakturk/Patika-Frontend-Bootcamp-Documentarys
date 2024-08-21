@@ -1,4 +1,4 @@
-# Patika + Bootcamp De  Pratik - Tablolarla Çalışmak Adlı Projeyi Oluşturdum ;
+# Patika + Bootcampde  Pratik - Tablolarla Çalışmak Adlı Projeyi Oluşturdum ;
 
 
 ## Kullanılan Teknolojiler :
