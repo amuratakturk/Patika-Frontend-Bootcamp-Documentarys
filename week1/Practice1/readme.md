@@ -23,7 +23,7 @@ HTML ve CSS
 
 #### Öğrenci Bilgileri: Tabloya en az 5 öğrenci ekleyin. Her öğrenci için "Öğrenci Numarası", "Adı", "Soyadı" ve "Notu" bilgilerini doldurun.
 
-#### Tablo Stilinin Belirlenmesi: Tabloya bazı temel stiller uygulayın:
+Tablo Stilinin Belirlenmesi: Tabloya bazı temel stiller uygulayın:
 
  Tablonun genişliğini yüzde 100 yapın.
 
